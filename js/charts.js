@@ -116,9 +116,9 @@ function buildCharts(sample) {
       xaxis: {title: "OTU ID"},
       hovermode: "closest",
       margin: {
-        l: 10,
-        r: 10,
-        b: 10, 
+        l: 30,
+        r: 30,
+        b: 30, 
         t: 30,
         pad: 5
       },
